@@ -1,0 +1,6 @@
+El usuario ingresó en: /
+El usuario ingresó en: /favicon.ico
+El usuario ingresó en: /admin
+El usuario ingresó en: /admin?user=pepe
+El usuario ingresó en: /admin?user=pepe
+El usuario ingresó en: /admin?user=Ada
